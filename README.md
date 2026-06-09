@@ -4,3 +4,5 @@
 
 涉及材料：
 <img width="1710" height="544" alt="image" src="https://github.com/user-attachments/assets/323755b1-9d04-416b-9a47-8187dbb2624b" />
+
+本项目含有：原函数代码、单城市日食约束ΔT计算、多城市合并可视化、汇报ppt。
